@@ -26,5 +26,14 @@ Target ICP (starting point, refine in context/icp/icp.md): growth-stage Nigerian
 - Ask before sending or publishing anything.
 - Log every change in this week's work log (work-log/YYYY-Www.md).
 
+## Skills (.claude/skills, from the GTM Starter Kit)
+- Strategy and context: /signal-matrix, /campaign-strategy, /build-workflow-spec, /campaign-copy, /prompt-builder.
+- Clay build and QA: /campaign-contract, /design-clay-table-json, /import-clay-table, /build-clay, /save-clay-schema, /campaign-qa.
+- Clay costs and data: /calculate-costs, /workspace-cost-audit, /export-tables.
+- Research and diagrams: /crawl4ai, /agent-browser, /miro-gtm-flowchart.
+- Deliverability: /inbox-placement-test.
+
 ## Tools
+- rex (tools/rex): unofficial Clay client used by the Clay skills. Not installed yet; see tools/rex/GETTING_STARTED.md.
+- crawl4ai, agent-browser (tools/): install guides only, not installed yet.
 - treg (CLI, paid data lookups): run `tools/treg-venv/bin/treg` with `TREG_CONFIG` set to `.treg/config.json` in this folder (set in .claude/settings.local.json). Find with `treg catalog search "<task>"`, check the price with `treg catalog get <id>` before every call.

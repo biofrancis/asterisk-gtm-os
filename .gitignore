@@ -6,3 +6,10 @@
 .DS_Store
 .claude/settings.local.json
 tools/treg-venv/
+!.env.example
+clay-session.json
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
