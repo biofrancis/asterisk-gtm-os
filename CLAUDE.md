@@ -27,3 +27,4 @@ Target ICP (starting point, refine in context/icp/icp.md): growth-stage Nigerian
 - Log every change in this week's work log (work-log/YYYY-Www.md).
 
 ## Tools
+- treg (CLI, paid data lookups): run `tools/treg-venv/bin/treg` with `TREG_CONFIG` set to `.treg/config.json` in this folder (set in .claude/settings.local.json). Find with `treg catalog search "<task>"`, check the price with `treg catalog get <id>` before every call.
