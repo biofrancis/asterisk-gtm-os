@@ -1,7 +1,8 @@
 # Asterisk GTM Context OS
 
 ## Company
-Asterisk (useasterisk.com). One-line description to be filled in after research.
+Asterisk (useasterisk.com): "The AI compliance team for fintechs", a proactive AI coworker that runs KYB/KYC reviews, transaction monitoring, alert reviews and bank RFIs, plugged into a fintech's existing tools and agents. A product of Serai, Inc. (New York), which also makes Karsa; Asterisk is the pivot from Karsa (about Sept 2026). Source: context/docs/research/asterisk-raw.md.
+This build covers Nigeria only (owner: Nigeria country lead).
 Target ICP (starting point, refine in context/icp/icp.md): growth-stage Nigerian fintechs that process payments or move money, operate under regulatory obligations or regulated partners, are expanding, and run recurring manual compliance, risk or ops processes.
 
 ## How this folder works

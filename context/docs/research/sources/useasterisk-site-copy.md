@@ -1,0 +1,220 @@
+# useasterisk.com: raw site copy
+
+Source: string literals extracted from https://useasterisk.com/assets/main-DtbWtK9L.js (the homepage is a React app). Captured 2026-11-13. Order follows the bundle, not necessarily the page. SVG paths and code removed.
+
+- Close
+- We’ll email you with sandbox access shortly.
+- Done
+- Get started
+- Leave a work email and we’ll send you sandbox access.
+- Work email
+- you@company.com
+- Submit
+- Serai, Inc.
+- Footer
+- Product
+- Workflows
+- Pricing
+- Docs
+- Company
+- mailto:support@gokarsa.com
+- Contact
+- Legal
+- Privacy
+- Website terms
+- Site
+- In progress
+- Review
+- 9:14 AM
+- Hi, I’m Asterisk. Connect me to your tools or point one of your agents at me, and I’ll work out what you need.
+- Here’s our setup
+- Reading your tools and policies
+- Checking what’s covered
+- Got it. I’m connected to your onboarding agent, ID vendor and Slack, and I’ve started on these.
+- 9:31 AM
+- This week’s update
+- Here’s what I got done for you this week, and what I’m keeping an eye on.
+- Reviewed 14 new businesses
+- Cleared 26 screening matches that were different people
+- Chased 3 customers for missing documents
+- Noticed a customer’s activity changed, looked into it, and flagged it for you
+- Drafting answers to your bank’s questions
+- Bank questionnaire answers.pdf
+- Draft
+- You
+- Asterisk
+- Thinking
+- We’ve built a lot of our onboarding ourselves, with our own rules and agents. I don’t want to rip it out, but where can you help?
+- Asterisk 
+- Read your onboarding workflow
+- Found the one step your team still does by hand
+- Took over the business review
+- I’ve taken over the business review, the one step your team still did by hand. Your form, ID vendor, rules and agent run as you built them. Tell me if you want me to take on more.
+- Onboarding
+- Your workflow
+- Updated just now
+- New application
+- Your form
+- ID check
+- Your vendor
+- Business review
+- By hand
+- Risk rules
+- Your team
+- Open account
+- Your agent
+- Asterisk in a terminal
+- asterisk · review_business
+- ✓ fine to approve
+-  · register, owners and screening match · 4 sources
+- Auto
+- This week: 14 businesses reviewed, one flagged for your call
+- Slack · #compliance · now
+- Your bank’s questions are answered
+- Gmail · draft ready, evidence attached · now
+- The compliance team we always wanted.
+- We were frustrated that compliance products were tools that gave us more work and more setup. None of them took on the heavy day-to-day work, or helped us catch the risks we hadn’t even thought of.
+- Asterisk is a thoughtful colleague. It thinks ahead like a compliance officer, spotting risks and what’s coming, and it handles the reviews, decisions and follow-up like an analyst.
+- Use it with your tools, your process and your agents
+- Most compliance products needed sales calls, contracts, endless configuration and full migrations before you could get started. That didn’t work for us, and it doesn’t fit what you’ve already built.
+- With Asterisk you pick the work you want, like customer due diligence, transaction monitoring or answering your bank, and add more whenever you like. Whatever you’ve built internally stays, with no migration. You can change how any of it works in chat, or from your own tools and agents. You only pay for what you use.
+- Work with it where you already are.
+- Asterisk messages you in Slack, emails you, and works straight from your terminal. You can approve a review in Slack, answer a request by email, or ask for a business check from the command line. Your own agents can hand Asterisk a review through the API or MCP and get the decision back with its sources.
+- Your work email
+- Start
+- Reply to Asterisk
+- Here’s our setup, what can you do for us?
+- Setting up your workflows
+- KYB review
+- Screening
+- Monitoring
+- Alert reviews
+- Bank requests
+- Got it. Your internal agents and workflows stay as-is. I’ve plugged in and started on these:
+- Spotting risks you didn’t ask about
+- Reviewing new businesses
+- Answering your bank
+- Read your tools and checked what’s covered
+- Set up 5 workflows
+- Running 
+- 2 fine to approve · 1 missing a document
+- accounts · open
+- email · request_document
+- Sent to the third applicant
+- Your onboarding agent calling Asterisk
+- work through today’s applications
+- A Gmail reply to your bank, ready to send
+- Re: Annual review questionnaire
+- Your bank’s compliance team
+- Answers to all 23 questions are below, with the evidence attached.
+- PDF
+- Evidence.pdf
+- Send
+- Brazilian businesses have started applying, but your review flow doesn’t check Brazil’s company register yet. I’ve drafted the fix.
+- Spotted while reviewing today’s applications
+- 10:02 AM
+- Asterisk in Slack
+- APP
+- A new kind of compliance team, 
+- Asterisk is a proactive AI coworker that handles compliance for fintechs. It runs customer reviews and monitoring, spots risks your team hasn’t found, and plugs into the tools and agents you already have.
+- Give me a few minutes with your setup, and I’ll show you where I can help.
+- Pay as you go
+- Flexible, selected use
+- $1 per credit
+- Starter
+- Selected workflows
+- Team
+- Regular team usage
+- 1,250 credits / month
+- Scale
+- Higher work volumes
+- 3,125 credits / month
+- Start small with no minimum, and scale to a plan when you need it.
+- Billing
+- Monthly
+- Annually 
+- Save 10%
+- Custom
+- Larger commitments, agreed scope and terms.
+- Agreed balance and credit rate
+- + custom workflow design
+- Certificate against the register
+- Name, number
+- Matches
+- Status
+- Active
+- Owners over your threshold
+- Director
+- ID matches
+- Shareholder
+- Screening and website
+- Sanctions
+- Cleared 
+- Website
+- Controlled 
+- From your ID vendor · failed checks
+- Address mismatch 
+- Name order differs 
+- Selfie match low 
+- Because I know
+- Your vendor stays 
+- Scenarios running on your transactions
+- Split under the cash reporting line
+- Salary paid into a business account
+- Micro-deposit testing
+- fired · worked
+- Many senders, one customer
+- Bringing you
+- Micro-deposit testing 
+- closed, with reasons
+- Working the alert
+- Read
+- Compared
+- Checked
+- doesn’t fit
+- Decided
+- Due diligence questionnaire · from your bank
+- Who approves high-risk customers?
+- How do you verify beneficial owners?
+- Each owner over the threshold is traced to a person and checked against their ID.
+- Ownership policy
+- Review log
+- Who reviews dormant accounts?
+- Limit increase reviews
+- Keeping files current
+- Relationship and network review
+- Control coverage
+- Review quality
+- Regulatory change
+- Licence maintenance
+- Policy updates
+- Filing preparation
+- Check every new payee against our blocked list before the first payment.
+- Set up 
+- Checks the business at its source, traces its owners and screens everyone behind it.
+- Registers
+- Ownership
+- Websites
+- KYC review
+- Works the failed and flagged checks from your ID vendor against what’s on file.
+- Your ID vendor
+- Failed checks
+- Evidence on file
+- Transaction alert review
+- Works each alert with the customer’s history and records the decision with reasons.
+- Customer history
+- Declared activity
+- Decisions
+- Transaction monitoring
+- Runs the scenarios you choose on your transactions and works what they find.
+- Structuring
+- Velocity
+- Flow of funds
+- RFIs and correspondence
+- Answers your sponsor bank and partners from evidence already on file.
+- Questionnaires
+- Evidence
+- Policy gaps
+- And more, or build your own
+- What you can do with Asterisk
+- Skip to main content

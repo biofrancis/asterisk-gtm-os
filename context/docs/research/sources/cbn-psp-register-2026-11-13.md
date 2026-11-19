@@ -1,0 +1,317 @@
+# CBN licensed payment service providers (raw)
+
+Source: https://www.cbn.gov.ng/PaymentsSystem/PSPs.html, fetched 2026-11-13. Numbering is as published (the PSSP list repeats numbers 70-84).
+
+
+## A. CARD/PAYMENT SCHEMES
+
+- 3Line Card Management Limited
+- Afrigo Financial Services Limited
+- American Express International
+- Mastercard International
+- Payattitude
+- Unionpay International
+- Verve International
+- Visa International Service Association
+
+## B. MOBILE MONEY OPERATOR LICENCE CATEGORY
+
+- Abeg Technologies Limited
+- Chams Mobile
+- eTranzact International Limited
+- Fortis Mobile Money Limited
+- Funds And Electronic Transfer (FETS) Limited
+- Hedonmark Management Services Limited
+- KongaPay Technologies Limited (Formerly Zinternet Limited )
+- Mkudi Limited
+- NowNow Digital Systems Limited (Formerly Contec Global Infotech Limited)
+- Opay Digital Services Limited (Formerly Paycom Nigeria Limited)
+- Pagatech Limited
+- PalmPay Limited
+- Parkway Projects Limited.
+- Teasy International Company Ltd
+- Visual ICT Limited
+- VTNetwork Limited
+- Xpress MTS Limited
+
+## C. SWITCHING & PROCESSING LICENCE CATEGORY
+
+- Arca Payments Company Limited
+- Belema Financial Technology Limited
+- Chamswitch Limited
+- Coralpay Technology Nigeria Limited
+- eTranzact International Limited
+- Flutterwave Technology Solutions Limited
+- Habaripay Limited
+- Hydrogen Payment Services Limited
+- Interswitch Limited
+- Network International
+- Paystack Payment Limited
+- Remita Payment Service Limited
+- Say Switch Limited
+- Teamapt Limited
+- Terra Switching & Processing Company Limited
+- Unified Payment Services Limited
+- Uniswitch Technology Limited
+- Xpress Payments Solution Limited
+- Zone Payment Network Limited (Formerly Appzone Limited)
+
+## D. PAYMENT SOLUTION SERVICES LICENCE (PSS) CATEGORY
+
+
+## i. PAYMENT SOLUTION SERVICE PROVIDER (PSSP) AUTHORISATION
+
+- AccessPower Payments Solutions Limited
+- Afara Partners Limited
+- Akupay Services Limited
+- Alaje Technology Limited
+- Aliancepay Limited
+- Angala Financial Technologies Limited
+- Appglobal Technologies Limited
+- Appmart Integrated Limited
+- Aspapay Limited
+- Bestaff Payment Solutions Limited
+- Betastack Technology Limited
+- Billzone Solutions Limited
+- Bluesalt Financial Services Limited
+- BT Payments Services Nigeria Limited
+- Bud Infrastructure Limited
+- Bvnk Services Limited
+- Callphone Limited
+- Capricorn Digital Limited
+- CBI Technologies Ltd
+- Cellulant Nigeria Limited
+- Centric Gateway Limited
+- Ceviant Payments Nigeria Limited
+- Clane Company Nig. Ltd.
+- Cyberpay Limited (Formerly known as Cyberspace Limited)
+- Demerge Nigeria Limited
+- Dot Financial Inclusion Technologies Limited
+- Duplo Limited
+- Easypay International Services Limited
+- Echezona Digital Gateway Limited
+- Egole Pay Limited
+- Elipa Payments Limited
+- End2end Technologies Limited
+- Epic Payment Technologies Limited
+- Ercas Integrated Solutions Limited
+- E-Settlement Limited
+- Eyowo Integrated Payments Limited
+- Fairsure Payments Limited
+- Figours Innovation Limited
+- Fincra Technologies Limited
+- Fountain Payment Systems Solution
+- Futurepay Tech Solutions Nigeria Limited
+- Gemspay Limited
+- Global Accelerex Limited
+- Gpay Instant Solution Limited
+- GTP Client Services Limited
+- Hea-Dew Solutions Nigeria Limited
+- Hellopay Africa Integrated Service Ltd.
+- Huiospay Limited
+- ICAD Concord Limited
+- Infiniti Segments Limited
+- Integrated Revenue Collection and Management Solution(IRCMS) Limited
+- Irecharge Technology Innovations Limited
+- Irofit Technologies LimitedD
+- Itex Integrated Services Limited
+- Jupiter Payment Services Limited
+- Karrabo Financial Solutions Limited
+- Katsu Network Limited
+- Klasha Technologies Limited
+- Konetpay Nigeria Limited
+- Kora Payments
+- Leadremit Limited
+- Linq Payment Technology Limited
+- Moment Nigeria Pay2 Ltd
+- Moneta Technology Limited
+- Montra Technology Solutions Limited (Formerly Artha Fintech Limited)
+- Msia Oculus Technologies Limited
+- Multigate Payment Limited
+- Netapps Technologies Limited
+- Netplusdotcom Nigeria Limited
+- Nomba Financial Services Limited (Formerly Cosmic Intelligence Lab Limited)
+- Novac Payment Solutions Limited
+- Okra Technologies Limited
+- Olive Payment Solutions  Limited
+- Onepipe.Io Services Ltd
+- Payaza Africa Limited
+- Payfixy Nigeria Limited (Formerly Innovate 1 Pay Limited)
+- Payinvert Limited
+- Paylode Services Limited
+- Payment Access System Limited
+- Payment Island Services Limited
+- Paysharp Limited
+- Paymi Solutions Limited
+- Paymishtech Limited
+- Paysure Technologies Limited
+- Payu Payments Nigeria Limited
+- Pethahiah Rehoboth International Limited
+- Pixelplay Systems Limited
+- Prophius Limited
+- Qrios Networks Limited
+- Redtech Limited
+- Resident Fintech Limited
+- Rexel Limited
+- R-Lab Limited
+- Routepay Fintech Limited
+- Soti Payment Limited
+- Saanapay Corporate Investments Management Limited (SAANACORP)
+- Shago Payments Ltd
+- SID Digital Limited
+- Simplify International Synergy Limited
+- Smile Identity Nigeria Limited
+- Soft Alliance & Resources Limited
+- Spay Business Solutions Limited
+- Spout Payment Solutions
+- Swift Link-NZ Global Services Ltd.
+- Swift Paygate Limited
+- SWWIPE Financial Services Limited (Formerly Parkway Projects Limited)
+- Teinnovate Capital Limited
+- Tgipay Limited
+- Touch & Pay Technologies Limited
+- Traction Payments Limited
+- Transactworld Digital Services Limited
+- Unlimint Nigeria Ltd
+- Upperlink Limited
+- Value Payment Solutions Limited
+- Vas2net Technologies Ltd
+- Vendy Limited
+- Venture Garden Nigeria Limited
+- Vestrapay Nigeria Limited
+- Voguepay Web Solution Limited
+- Waxed Mobile Nigeria Ltd
+- Waya Multilinks Technologies Limited
+- Wingtip Flow Limited
+- Woven Finance Limited
+- Zest Payments Limited (Stanbic Financial Services Limited)
+
+## ii.  PAYMENT TERMINAL SERVICES PROVIDER (PTSP) AUTHORISATION
+
+- 3gee Pay Limited
+- 3Line Card Management
+- Appmart Integrated Limited
+- Bestaff Payment Solutions Limited
+- Betastack Technology Limited
+- Bizzdesk Global Solutions Limited
+- Blusalt Financial Services Limited
+- Callphone Limited
+- Capricorn Digital Limited
+- CBI Technologies Ltd
+- Clane Company Nig. Ltd.
+- Citiserve Limited
+- Computer Warehouse Group
+- C24 Limited
+- Cyberpay Limited (Formerly known as Cyberspace Limited)
+- Dot Financial Inclusion Technologies Limited
+- Egole Pay Limited
+- Epic Payment Technologies Limited
+- Etop Nigeria Limited
+- Eyowo Integrated Payments Limited
+- Funds Konnect Limited (Formerly Funds and Electronic Transfers (FETs)Limited)
+- Fidesic Nigeria Limited
+- Global Accelerex Limited
+- Intergrated Revenue Collection and Management Solution (IRCMS) Limited
+- Intellifin Solution Limited
+- Itex Integrated Services Limited
+- Irofit Technologies Limited
+- Jupiter Payment Services Limited
+- Karrabo Financial Solutions Limited
+- Katsu Network Limited
+- Konetpay Nigeria Limited
+- Netplusdotcom Nigeria Limited
+- Netop Business Systems Limited
+- Nomba Financial Services Limited (Fromerly Cosmic Intelligence Lab Limited)
+- Olive Payment Solutions Limited
+- Onecard Topup Services Limited
+- Paymi Solutions Limited
+- Prophius Limited
+- Reedpriceman Technologies Limited
+- Shago Payments LTD
+- Soti Investments Limited
+- Spout Payment Solutions
+- Swift Link-NZ Global Services LTD
+- Traction Payments Limited
+- Waxed Mobile Nigeria LTD
+- Upperlink Limited
+- Wi-Pay
+
+## iii. SUPER-AGENT AUTHORISATION
+
+- 3Line Card Management
+- 5554 Technologies Limited
+- Accelerex Networks Limited
+- Africa Mama Atm Limited
+- Africave Technologies Limited
+- Airtel Mobile Commerce Nigeria Limited (Airtel)
+- Allstream Information Technology Solutions Limited
+- Angala Financial Technologies Limited
+- Appmart Integrated Limited
+- ATN Wayya Limited
+- Bestaff Payment Solutions Limited
+- Betastack Technology Limited
+- C24 Limited
+- Callphone Limited
+- Capricorn Digital Limited
+- CBI Technologies Ltd
+- Cicoserve Payments Limited
+- Citiserve Limited
+- Clane Company Nig. Ltd
+- Connectpoint Technology Solutions Limited
+- Crowd Force Limited (Formerly Mobile Forms Limited)
+- Dot Financial Inclusion Technologies Limited
+- Egole Pay Limited
+- Epic Payment Technologies Limited
+- Errand P Limited
+- E-Settlement Limited
+- Fountain Payment Systems Solution
+- Fucil Datatech Limited
+- Gwills Payments Service Limited
+- Horizonpay Nigeria Limited
+- Infibranches Technology Limited
+- Intergrated Revenue Collection and Management Solution (IRCMS) Limited
+- Interswitch Financial Inclusion Services Limited
+- Irofit Technologies Limited
+- Itex Integrated Services Limited
+- Jupiter Payment Services Limited
+- Kadick Integrated Limited
+- Katsu Network Limited
+- Liberty Pay Limited
+- Lukeport Nigeria Limited
+- Microsystems Investment And Development Limited
+- Moneymaster Limited
+- Montra Technology Solutions Limited (Formerly Artha Fintech Limited)
+- Nigerian Postal Service (NIPOST)
+- Nomba Financial Services Limited (Formerly Cosmic Intelligence Lab Limited)
+- Olive Payment Solutions Limited
+- Olivepeak International Limited
+- Paycluster Technology Limited
+- Paygo Limited
+- Paymi Solutions Limited
+- Shago Payments Ltd
+- Spout Payment Solutions
+- Supplysmart Nigeria Limited
+- Swift Link-Nz Global Services Ltd
+- Traction Payments Ltd
+- Transbill Solution Limited
+- Upperlink Limited
+- Vatebra Pay Limited
+- Waxed Mobile Nigeria Ltd
+- Xchange Box Solutions Limited
+- Y'ello Digital Financial Services..
+
+## E. PAYMENTS SERVICE HOLDING CATEGORY
+
+- Interswitch PSHC Nigeria Limited
+
+## F. PAYMENTS TERMINAL SERVICE AGGREGATOR CATEGORY
+
+- Nigeria Inter-Bank Settlement System PLC
+- Unified Payment Services Limited
+- Clearing  House
+- Following the  implementation of Cheque Truncation, there is only one (1) Clearing House in  Nigeria (i.e. Nigeria Inter-Bank Clearing and Settlement System).
+- Framework,  Policies, Guidelines and Circulars
+- These  are various regulations and rules put in place by the Central Bank of Nigeria  in collaboration with the key Stakeholders in the industry. Some of these are  as listed below:
+- Agent  Banking Framework
+- Regulatory  Framework for Mobile Payment Services in Nigeria
+- PoS Guidelines
