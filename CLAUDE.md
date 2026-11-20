@@ -29,7 +29,7 @@ Target ICP (starting point, refine in context/icp/icp.md): growth-stage Nigerian
 
 ## Skills (.claude/skills, from the GTM Starter Kit)
 - Strategy and context: /signal-matrix, /campaign-strategy, /build-workflow-spec, /campaign-copy, /prompt-builder.
-- Clay build and QA: /campaign-contract, /design-clay-table-json, /import-clay-table, /build-clay, /save-clay-schema, /campaign-qa.
+- Clay build and QA: /clay-build-plan, /campaign-contract, /design-clay-table-json, /import-clay-table, /build-clay, /save-clay-schema, /campaign-qa.
 - Clay costs and data: /calculate-costs, /workspace-cost-audit, /export-tables.
 - Research and diagrams: /crawl4ai, /agent-browser, /miro-gtm-flowchart.
 - Deliverability: /inbox-placement-test.
